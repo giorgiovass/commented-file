@@ -1,0 +1,21 @@
+phrase:
+  access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
+  project_id: 94b4625da06255700c98e7325e56e376
+  file format: json
+  
+  
+  push:
+    sources:
+    - file: ./locale/chrome.json
+      params:
+        file_format: json
+        locale_id: 8f8ec1b924918ab4160dc40b02046757
+        update_translations: true
+        
+        
+  pull:
+    targets:
+    - file: ./locale/chrome_<locale_code>.json
+      params: 
+        locale_id: ad3eb030d794eb7c73662bb0e774f8f7
+        file_format: json
