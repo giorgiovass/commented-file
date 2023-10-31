@@ -38,5 +38,10 @@
   },
   "unverified_key": {
     "message": "Not yet verified waiting for it. (In some formats we also export this status)"
+  },
+  "unverified_key_number 2": {
+    "message": "This is a brand new key written by Giorgio!)",
+    "description": "Check out THIS cool new text, dude!",
+    "screenshot": "https://pocket-image-cache.com/648x/filters:format(png):extract_focal()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-collectionapi-prod-images%2F2f35b047-dc7e-4012-bdd7-84ad7eb75e36.jpeg"
   }
 }
